@@ -25,10 +25,10 @@ pip install -r requirements.txt
 ### Installation
 - Clone this repo:
 ```bash
-git clone https://github.com/clovaai/WCT2.git
-cd WCT2
+git clone https://github.com/Raeyi/multipooling-AdaPECT.git
+cd multipooling-AdaPECT
 ```
-* Pretrained models can be found in the `./model_checkpoints`
+* Pretrained models can be found in the `./Pretrained_model`
 
 - Prepare image dataset
   - Images can be found in [DPST repo](https://github.com/luanfujun/deep-photo-styletransfer)
@@ -38,7 +38,7 @@ cd WCT2
     - Currently there are several example images so that you can execute the code as soon as you clone this repo.  
 - Finally, test the model:
 ```bash
-python transfer.py --option_unpool cat5 -a --content ./examples/content --style ./examples/style --content_segment ./examples/content_segment --style_segment ./examples/style_segment/ --output ./outputs/ --verbose --image_size 512 
+python LapSobGaus_transfer.py --option_unpool sum -a --content ./examples/content/coco --style ./examples/style/coco --content_segment ./examples/content_segment --style_segment ./examples/style_segment/ --output ./outputs/ --verbose --image_size 512 
 ```
 
 The test results will be saved to `./outputs` by default.  
