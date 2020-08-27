@@ -16,145 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe9e0a26-28c9-4fad-b4d7-4f0fa9038f8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/multipooling-AdaPECT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdWCT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArbitraryCS_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicConvolutionLayer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LapSobGaus_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LapSobGaus_transfer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ovodus_Laplace_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ovodus_Laplace_model_wrong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ovodus_transfer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackedVGG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/coco/in00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/coco/in14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/coco/in17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/coco/in34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/coco/in58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/coco/in64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/paper/in10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content/paper/in11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content_segment/in00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content_segment/in14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content_segment/in17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content_segment/in34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content_segment/in58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/content_segment/in64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/coco/in00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/coco/in14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/coco/in17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/coco/in34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/coco/in58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/coco/in64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/paper/in10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style/paper/in11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style1/in00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style_segment/in00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style_segment/in14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style_segment/in17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style_segment/in34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style_segment/in58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/style_segment/in64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_content/frame_0030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style/frame_0030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/video_style_spring/frame_0030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="fe9e0a26-28c9-4fad-b4d7-4f0fa9038f8a" name="Default Changelist" comment="this is my first commit">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,11 +68,24 @@
       <option name="presentableId" value="Default" />
       <updated>1598515944785</updated>
     </task>
+    <task id="LOCAL-00001" summary="this is my first commit">
+      <created>1598516422342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598516422343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -206,18 +93,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="this is my first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my first commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="594" y="186" key="FileChooserDialogImpl" timestamp="1598517814071">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="594" y="186" key="FileChooserDialogImpl/90.0.1446.864@90.0.1446.864" timestamp="1598517814071" />
     <state x="646" y="329" key="Github.ShareDialog" timestamp="1598516217418">
       <screen x="90" y="0" width="1446" height="864" />
     </state>
     <state x="646" y="329" key="Github.ShareDialog/90.0.1446.864@90.0.1446.864" timestamp="1598516217418" />
-    <state x="432" y="173" key="Vcs.Push.Dialog.v2" timestamp="1598516254732">
+    <state x="315" y="76" key="SettingsEditor" timestamp="1598517815685">
       <screen x="90" y="0" width="1446" height="864" />
     </state>
-    <state x="432" y="173" key="Vcs.Push.Dialog.v2/90.0.1446.864@90.0.1446.864" timestamp="1598516254732" />
+    <state x="315" y="76" key="SettingsEditor/90.0.1446.864@90.0.1446.864" timestamp="1598517815685" />
+    <state x="432" y="173" key="Vcs.Push.Dialog.v2" timestamp="1598516780591">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="432" y="173" key="Vcs.Push.Dialog.v2/90.0.1446.864@90.0.1446.864" timestamp="1598516780591" />
+    <state x="608" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598516339874">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="608" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/90.0.1446.864@90.0.1446.864" timestamp="1598516339874" />
   </component>
 </project>
