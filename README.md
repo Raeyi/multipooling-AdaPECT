@@ -64,6 +64,7 @@ The test results will be saved to `./outputs` by default.
 * DPST: "Deep Photo Style Transfer" | [Paper](https://arxiv.org/abs/1802.06474) | [Code](https://github.com/luanfujun/deep-photo-styletransfer)
 * PhotoWCT: "A Closed-form Solution to Photorealistic Image Stylization" | [Paper](https://arxiv.org/abs/1703.07511) | [Code](https://github.com/NVIDIA/FastPhotoStyle)
 * PhotoWCT (full): PhotoWCT + post processing
+* WCT2:Photorealistic Style Transfer via Wavelet Transforms | [paper](https://arxiv.org/abs/1903.09760) | [supplementary materials](https://github.com/clovaai/WCT2/blob/master/%5Bsupplementary%20materials%5D%20Photorealistic_Style_Transfer_via_Wavelet_Transforms.pdf)
 ### Schematic illustration of our wavelet module
 <img src="./figures/net_archi_haar2.png" width="1000" title="wavelet module"> 
 
